@@ -1,5 +1,5 @@
 ---
-title: 'Time'
+title: Time
 date: '2013-08-13'
 ---
 

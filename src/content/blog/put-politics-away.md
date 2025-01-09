@@ -1,5 +1,5 @@
 ---
-title: 'Put Politics Away'
+title: Put Politics Away
 date: '2012-12-15'
 ---
 

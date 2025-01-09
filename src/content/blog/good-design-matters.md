@@ -1,5 +1,5 @@
 ---
-title: 'Good Design Matters'
+title: Good Design Matters
 date: '2012-05-09'
 ---
 

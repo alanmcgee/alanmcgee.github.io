@@ -1,9 +1,9 @@
 ---
-title: 'Lessons Learned from My First Scratch Programming Workshop'
+title: Lessons Learned from My First Scratch Programming Workshop
 date: '2012-11-30'
 ---
 
-![](https://uploads-ssl.webflow.com/5dbd14435ad64f288d7d3f35/5dbe29814f6148141ecb261c_ScratchCat.jpeg)
+![](/images/blog/5dbe29814f6148141ecb261c_ScratchCat.jpeg)
 
 Two weeks ago, I wrapped up my first workshop on computer programming in [Scratch](http://http://scratch.mit.edu/). Unlike other workshops I have been helping with over the last few months, the content, the teaching and responsibility all fell on my shoulders. At the beginning of the semester, I was really nervous about the workshop. Where to start? What are some good ways to teach these complex programming concepts? How do we ensure that kids feel engaged and invested? Perhaps most importantly - would I be able to teach a workshop in programming!? It had been a while since I wrote object-oriented code. Instead, I have spent the last several years engaged in systems design but always handed it over to developers when it came to the implementation.I can now report that I have created my first simple remixed video game. It has two levels, and it involves a monkey eating things. I never thought I'd be able to program a video game but I knew it was the only way I would be able to work with my students and support their learning.I also created a simple name animation and a mini digital story. You can see my simple game by clicking [here](http://scratch.mit.edu/users/veenav). I will share the other two tools as soon as Scratch 2.0 goes live!There were moments of challenge and small triumphs throughout the four weeks. To plan for the classes, I used an amalgam of my own ideas and the [Scratch ED curriculum](http://scratched.media.mit.edu/resources/scratch-curriculum-guide-draft) developed by Karin Brennan and Michelle Chung at MIT. Here's a quick rundown:**_Week 1_** - Introduction to Scratch: what is a sprite? what are costumes? how do I attribute sounds? how do sprites move? how do i use the Scratch environment?
 

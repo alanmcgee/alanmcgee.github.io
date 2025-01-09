@@ -1,5 +1,5 @@
 ---
-title: 'My Tech Practices'
+title: My Tech Practices
 date: '2012-01-12'
 ---
 

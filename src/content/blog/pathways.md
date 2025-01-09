@@ -1,9 +1,9 @@
 ---
-title: 'Pathways'
+title: Pathways
 date: '2019-11-01'
 ---
 
-![The Pathway](https://uploads-ssl.webflow.com/5dbd14435ad64f288d7d3f35/5dbe29875ad64f9d4c82bd09_14477691695_21d9590819_b.jpeg)
+![The Pathway](/images/blog/5dbe29875ad64f9d4c82bd09_14477691695_21d9590819_b.jpeg)
 
 [_"The Pathway"_](https://www.flickr.com/photos/116247965@N04/14477691695) _by_ [_acidicDR_](https://www.flickr.com/photos/116247965@N04) _is licensed under_ [_CC BY-NC-ND 2.0_](https://creativecommons.org/licenses/by-nc-nd/2.0/?ref=ccsearch&atype=html)
 

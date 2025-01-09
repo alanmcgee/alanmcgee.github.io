@@ -1,5 +1,5 @@
 ---
-title: 'The Purpose of School (1)'
+title: The Purpose of School (1)
 date: '2012-05-07'
 ---
 

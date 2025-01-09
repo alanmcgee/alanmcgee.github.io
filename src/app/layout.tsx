@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Geist } from "next/font/google";
 import "./globals.css";
+import { Navigation } from "@/components/Navigation";
 
 const geist = Geist({
   subsets: ["latin"],
@@ -26,24 +27,15 @@ export default function RootLayout({
           </div>
         </div>
         <div className="relative">
-          <header className="pointer-events-none relative z-50 flex flex-none flex-col">
-            <div className="top-0 z-10 h-16 pt-6">
-              <div className="sm:px-8 top-[var(--header-top,theme(spacing.6))] w-full">
-                <div className="mx-auto w-full max-w-7xl lg:px-8">
-                  <div className="relative px-4 sm:px-8 lg:px-12">
-                    <div className="mx-auto max-w-2xl lg:max-w-5xl">
-                      <div className="relative flex gap-4">
-                        <div className="flex flex-1">
-                          <nav className="flex items-center justify-center gap-8">
-                            <a href="/" className="pointer-events-auto hover:text-teal-500">Home</a>
-                            <a href="/blog" className="pointer-events-auto hover:text-teal-500">Blog</a>
-                            <a href="/publications" className="pointer-events-auto hover:text-teal-500">Publications</a>
-                          </nav>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
+          <header className="relative z-50 flex flex-none flex-col items-center">
+            <div className="w-full border-b border-zinc-100">
+              <div className="mx-auto max-w-7xl">
+                <div className="p-4 text-center mt-4">
+                  <a href="/" className="text-3xl tracking-widest uppercase font-extrabold">
+                    Veena Vasudevan
+                  </a>
                 </div>
+                <Navigation />
               </div>
             </div>
           </header>
@@ -51,5 +43,5 @@ export default function RootLayout({
         </div>
       </body>
     </html>
-  );
+  )
 }

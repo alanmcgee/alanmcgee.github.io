@@ -1,5 +1,5 @@
 ---
-title: 'Kindness'
+title: Kindness
 date: '2014-01-22'
 ---
 

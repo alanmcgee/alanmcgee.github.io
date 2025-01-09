@@ -1,5 +1,5 @@
 ---
-title: 'Traction (lesson 4)'
+title: Traction (lesson 4)
 date: '2011-10-24'
 ---
 

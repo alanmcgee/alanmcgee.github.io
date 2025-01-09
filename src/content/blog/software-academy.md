@@ -1,5 +1,5 @@
 ---
-title: 'Software Academy'
+title: Software Academy
 date: '2012-01-22'
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 'Tech Tools for Teachers'
+title: Tech Tools for Teachers
 date: '2011-12-05'
 ---
 

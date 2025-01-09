@@ -1,5 +1,5 @@
 ---
-title: 'What''s the Big Picture?'
+title: What's the Big Picture?
 date: '2011-09-22'
 ---
 

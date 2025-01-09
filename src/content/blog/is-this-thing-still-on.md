@@ -1,5 +1,5 @@
 ---
-title: 'Is this thing still on?'
+title: Is this thing still on?
 date: '2019-09-17'
 ---
 

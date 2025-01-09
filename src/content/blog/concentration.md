@@ -1,5 +1,5 @@
 ---
-title: 'Concentration'
+title: Concentration
 date: '2012-01-02'
 ---
 

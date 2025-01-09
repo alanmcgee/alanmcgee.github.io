@@ -1,5 +1,5 @@
 ---
-title: 'Great Teachers'
+title: Great Teachers
 date: '2011-12-17'
 ---
 

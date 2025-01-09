@@ -1,5 +1,5 @@
 ---
-title: 'Humble Pie (lesson 3)'
+title: Humble Pie (lesson 3)
 date: '2011-10-18'
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 'Making to Learn'
+title: Making to Learn
 date: '2014-01-05'
 ---
 

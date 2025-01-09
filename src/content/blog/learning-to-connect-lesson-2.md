@@ -1,5 +1,5 @@
 ---
-title: 'Learning to Connect (lesson 2)'
+title: Learning to Connect (lesson 2)
 date: '2011-10-17'
 ---
 

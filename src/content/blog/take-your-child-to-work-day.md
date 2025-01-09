@@ -1,5 +1,5 @@
 ---
-title: 'Take Your Child to Work Day'
+title: Take Your Child to Work Day
 date: '2013-04-25'
 ---
 

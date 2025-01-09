@@ -1,5 +1,5 @@
 ---
-title: 'People as Poetry'
+title: People as Poetry
 date: '2012-05-21'
 ---
 

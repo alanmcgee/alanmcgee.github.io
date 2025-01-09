@@ -7,7 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "convert-posts": "NODE_OPTIONS='--loader ts-node/esm' ts-node --project tsconfig.scripts.json scripts/convert-posts.ts"
+    "convert-posts": "NODE_OPTIONS='--loader ts-node/esm' ts-node --project tsconfig.scripts.json scripts/convert-posts.ts",
+    "download-images": "NODE_OPTIONS='--loader ts-node/esm' ts-node --project tsconfig.scripts.json scripts/download-images.ts"
   },
   "dependencies": {
     "gray-matter": "^4.0.3",

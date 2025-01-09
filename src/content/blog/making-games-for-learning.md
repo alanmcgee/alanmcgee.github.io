@@ -1,5 +1,5 @@
 ---
-title: 'Making Games for Learning'
+title: Making Games for Learning
 date: '2015-01-26'
 ---
 

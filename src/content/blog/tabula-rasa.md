@@ -1,9 +1,9 @@
 ---
-title: 'Tabula Rasa'
+title: Tabula Rasa
 date: '2014-02-04'
 ---
 
-![NYS 4th grade math assessment](https://uploads-ssl.webflow.com/5dbd14435ad64f288d7d3f35/5dbe29844f614846b2cb2632_ny4thgrade.png)
+![NYS 4th grade math assessment](/images/blog/5dbe29844f614846b2cb2632_ny4thgrade.png)
 
 ‍
 
@@ -11,7 +11,7 @@ NYS 4th grade math assessment excerptPlease note bullet two in the above image: 
 
 ‍
 
-![Commissioner King tweet](https://uploads-ssl.webflow.com/5dbd14435ad64f288d7d3f35/5dbe29844f61489ae2cb2631_jkingtweet.png)
+![Commissioner King tweet](/images/blog/5dbe29844f61489ae2cb2631_jkingtweet.png)
 
 ‍
 

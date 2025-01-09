@@ -1,5 +1,5 @@
 ---
-title: 'Digitizing Syllabi'
+title: Digitizing Syllabi
 date: '2013-01-28'
 ---
 

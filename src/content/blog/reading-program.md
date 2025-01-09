@@ -1,5 +1,5 @@
 ---
-title: 'Reading Program'
+title: Reading Program
 date: '2012-02-12'
 ---
 

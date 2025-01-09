@@ -1,5 +1,5 @@
 ---
-title: 'Fast'
+title: Fast
 date: '2012-11-27'
 ---
 

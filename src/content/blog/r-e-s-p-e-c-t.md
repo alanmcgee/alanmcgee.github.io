@@ -1,5 +1,5 @@
 ---
-title: 'R.e.s.p.e.c.t.'
+title: R.e.s.p.e.c.t.
 date: '2011-11-01'
 ---
 

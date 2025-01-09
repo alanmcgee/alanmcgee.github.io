@@ -1,5 +1,5 @@
 ---
-title: 'Pitch Meeting'
+title: Pitch Meeting
 date: '2011-09-29'
 ---
 

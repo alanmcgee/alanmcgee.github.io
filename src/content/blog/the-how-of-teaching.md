@@ -1,5 +1,5 @@
 ---
-title: 'The How of Teaching'
+title: The How of Teaching
 date: '2011-08-31'
 ---
 

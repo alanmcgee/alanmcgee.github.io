@@ -1,5 +1,5 @@
 ---
-title: 'Gun Control Now'
+title: Gun Control Now
 date: '2012-12-14'
 ---
 

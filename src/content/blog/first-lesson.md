@@ -1,5 +1,5 @@
 ---
-title: 'First Lesson'
+title: First Lesson
 date: '2011-10-04'
 ---
 

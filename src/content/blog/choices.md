@@ -1,14 +1,14 @@
 ---
-title: 'Choices'
+title: Choices
 date: '2024-10-30'
 ---
 
-**An ordinary story of choice and what’s at stake this election year**
+An ordinary story of choice and what’s at stake this election year
 
-*   **“I am no longer accepting the things I cannot change. I am changing the things I cannot accept.” — Angela Davis**  
+> **I am no longer accepting the things I cannot change. I am changing the things I cannot accept.**— Angela Davis
     
 
-*   **“I am not free while any woman is unfree, even when her shackles are very different from my own.” ― Audre Lorde**
+> **I am not free while any woman is unfree, even when her shackles are very different from my own.** ― Audre Lorde
 
 When [Roe v. Wade](https://www.npr.org/2022/06/24/1102305878/supreme-court-abortion-roe-v-wade-decision-overturn) was overturned by the supreme court, I was livid (and remain so). Our rights, our freedoms, our choices - gone - in an instant. T[he dissenting judges wrote,  "young women today will come of age with fewer rights than their mothers and grandmothers](https://www.npr.org/2022/06/24/1102305878/supreme-court-abortion-roe-v-wade-decision-overturn).”  As I pored over articles about the ruling, it occurred to me that had the court made this decision a few years earlier,  a routine procedure I had to undergo- while trying to get pregnant - could have been criminalized and unavailable to me.
 

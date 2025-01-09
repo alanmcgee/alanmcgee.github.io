@@ -1,11 +1,11 @@
 ---
-title: 'Learning Journeys Stemming from Art'
+title: Learning Journeys Stemming from Art
 date: '2012-05-08'
 ---
 
 Having time to draw and paint has put me on a path to have so many learning journeys. Art is representation of the literal, of the abstract, of the everyday, of the past and the present. Whether I'm creating it or observing it, art in any form makes me think, question and wonder. This became particularly clear to me when I was in Prospect Park a few weeks ago, attempting to capture an old tree using my drawing pad and colored pencils. As I began to draw I found myself scrutinizing every detail of the tree and asking myself - _what does this tree really look like?_ Because so often, I feel like the drawing of a tree is minimized to something like this:
 
-![](https://uploads-ssl.webflow.com/5dbd14435ad64f288d7d3f35/5dbe297dc2ce784db357f44a_SimpleTree-150x150.jpeg)
+![](/images/blog/5dbe297dc2ce784db357f44a_SimpleTree-150x150.jpeg)
 
 However, because I was interested in capturing it more realistically, I rapidly glanced back and forth between the tree and my drawing pad, struggling withe amount of detail. This included things like:
 
