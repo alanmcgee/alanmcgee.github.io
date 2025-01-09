@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Geist } from "next/font/google";
 import "./globals.css";
 import { Navigation } from "@/components/Navigation";
+import Link from 'next/link'
 
 const geist = Geist({
   subsets: ["latin"],
@@ -31,9 +32,9 @@ export default function RootLayout({
             <div className="w-full border-b border-zinc-100">
               <div className="mx-auto max-w-7xl">
                 <div className="p-4 text-center mt-4">
-                  <a href="/" className="text-3xl tracking-widest uppercase font-extrabold">
+                  <Link href="/" className="text-3xl tracking-widest uppercase font-extrabold">
                     Veena Vasudevan
-                  </a>
+                  </Link>
                 </div>
                 <Navigation />
               </div>

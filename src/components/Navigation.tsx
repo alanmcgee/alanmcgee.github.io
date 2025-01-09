@@ -1,20 +1,21 @@
 'use client'
 
 import { usePathname } from 'next/navigation'
+import Link from 'next/link'
 
 function NavLink({ href, children }: { href: string; children: React.ReactNode }) {
   const pathname = usePathname()
   const isActive = pathname === href
 
   return (
-    <a 
+    <Link 
       href={href} 
       className={`pointer-events-auto text-zinc-500 hover:text-teal-600 transition-colors ${
         isActive ? 'font-medium text-zinc-600' : ''
       }`}
     >
       {children}
-    </a>
+    </Link>
   )
 }
 
