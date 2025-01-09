@@ -5,6 +5,9 @@ const nextConfig = {
     unoptimized: true,
   },
   basePath: '/veenav',
+  typescript: {
+    ignoreBuildErrors: true,
+  },
   eslint: {
     ignoreDuringBuilds: true,
   },

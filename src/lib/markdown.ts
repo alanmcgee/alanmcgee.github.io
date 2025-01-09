@@ -32,5 +32,11 @@ export async function getPostData(id: string): Promise<BlogPost> {
 
 export function getAllPostIds() {
   const fileNames = fs.readdirSync(postsDirectory)
-  return fileNames.map(fileName => fileName.replace(/\.md$/, ''))
+  // Filter to only include .md files that actually exist
+  return fileNames
+    .filter(fileName => {
+      const fullPath = path.join(postsDirectory, fileName)
+      return fileName.endsWith('.md') && fs.existsSync(fullPath)
+    })
+    .map(fileName => fileName.replace(/\.md$/, ''))
 } 
