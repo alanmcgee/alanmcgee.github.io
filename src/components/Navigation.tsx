@@ -10,7 +10,7 @@ function NavLink({ href, children }: { href: string; children: React.ReactNode }
     <a 
       href={href} 
       className={`pointer-events-auto text-zinc-500 hover:text-teal-600 transition-colors ${
-        isActive ? 'font-bold text-zinc-600' : ''
+        isActive ? 'font-medium text-zinc-600' : ''
       }`}
     >
       {children}
